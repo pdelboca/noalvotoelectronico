@@ -24,7 +24,7 @@ html * {
 body {
 	font: {
 		size: 100%;
-		family: $secondary-font; // variables inside partials > _variables.scss
+		family: $primary-font; // variables inside partials > _variables.scss
 	}
 	color: $main-text;
 	background-color: $background;
@@ -33,7 +33,7 @@ body {
 a {
 	color: $link;
 	text-decoration: none;
-	font-family: $secondary-font;
+	font-family: $primary-font;
 }
 
 img {
@@ -41,7 +41,7 @@ img {
 }
 
 h1, h2 {
-	font-family: $secondary-font;
+	font-family: $primary-font;
 	font-weight: bold;
 }
 

@@ -24,7 +24,7 @@ html * {
 body {
 	font: {
 		size: 100%;
-		family: $primary-font; // variables inside partials > _variables.scss
+		family: $secondary-font; // variables inside partials > _variables.scss
 	}
 	color: $main-text;
 	background-color: $background;
@@ -381,4 +381,3 @@ header {
 		@include transform(translateX(0));
 	}
 }
-

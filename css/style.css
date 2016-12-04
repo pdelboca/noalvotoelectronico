@@ -16,7 +16,8 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Droid Serif", serif;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
   color: #7f8c97;
   background-color: #e9f0f5;
 }

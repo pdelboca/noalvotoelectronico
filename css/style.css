@@ -284,6 +284,8 @@ header h1 {
   float: left;
   padding: .8em 0;
   opacity: .7;
+  color: darkred;
+  font-weight: bold;
 }
 .cd-timeline-content::before {
   content: '';
